@@ -28,7 +28,7 @@ main {
 }
 
 .blog-card {
-    max-width: 275px;
+    max-width: 300px;
     background: white;
     padding: 15px;
     border: 1px solid var(--black);
