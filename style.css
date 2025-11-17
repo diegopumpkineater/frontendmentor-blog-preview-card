@@ -16,7 +16,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--dark-yellow);
-    font-size: 16px;
     font-family: "Figtree", sans-serif;
 }
 
@@ -39,7 +38,7 @@ main {
     width: 100%;
     height: auto;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin: 0 0 20px 0;
 }
 
 h1 {
